@@ -1,0 +1,10 @@
+C:\Users\Matura_1\source\repos\EightQueens\EightQueens\bin\Debug\EightQueens.exe.config
+C:\Users\Matura_1\source\repos\EightQueens\EightQueens\bin\Debug\EightQueens.exe
+C:\Users\Matura_1\source\repos\EightQueens\EightQueens\bin\Debug\EightQueens.pdb
+C:\Users\Matura_1\source\repos\EightQueens\EightQueens\obj\Debug\EightQueens.csproj.AssemblyReference.cache
+C:\Users\Matura_1\source\repos\EightQueens\EightQueens\obj\Debug\EightQueens.Form1.resources
+C:\Users\Matura_1\source\repos\EightQueens\EightQueens\obj\Debug\EightQueens.Properties.Resources.resources
+C:\Users\Matura_1\source\repos\EightQueens\EightQueens\obj\Debug\EightQueens.csproj.GenerateResource.cache
+C:\Users\Matura_1\source\repos\EightQueens\EightQueens\obj\Debug\EightQueens.csproj.CoreCompileInputs.cache
+C:\Users\Matura_1\source\repos\EightQueens\EightQueens\obj\Debug\EightQueens.exe
+C:\Users\Matura_1\source\repos\EightQueens\EightQueens\obj\Debug\EightQueens.pdb
